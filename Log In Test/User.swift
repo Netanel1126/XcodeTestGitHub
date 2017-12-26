@@ -2,10 +2,10 @@ import Foundation
 
 class User{
     var userName:String
-    var passworkll:String
+    var password:String
     
     init(userName:String,password:String) {
         self.userName = userName
-        self.passworkll = password
+        self.password = password
     }
 }
